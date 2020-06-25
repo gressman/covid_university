@@ -15,5 +15,5 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 
-**To Run:
+# To Run:
 The file pandemic.py contains an extremely simple example of how to run simulations and output results. Additional documentation and examples will be made available in future updates to the repository.
